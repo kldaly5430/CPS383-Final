@@ -3,7 +3,7 @@
 Created by Kyle Daly and Austin Horn.
 
 Asset Declaration
-Sprites
+Sprites  
 https://free-game-assets.itch.io/free-2d-orcs-sprite-sheets - Orc Sprites - By Ragewortt  
 https://ragewortt.itch.io/fantasy-heroes-character-sprites - Fantasy Sprites - By Ragewortt  
 https://ragewortt.itch.io/fantasy-heroes-samurai-sprite-sheet - Samurai Sprites - By Ragewortt  
